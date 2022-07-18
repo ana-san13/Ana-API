@@ -1,0 +1,40 @@
+[ 
+    
+    {
+        "nombre": "Reggaeton",
+        "imagen": "imagenes/reggaeton.jpeg"
+    },
+    {
+        "nombre": "Bachata",
+        "imagen": "imagenes/bachata.jpeg"
+    },
+    {
+        "nombre": "Banda",
+        "imagen": "imagenes/banda.jpeg"
+    },
+    {
+        "nombre": "Rock",
+        "imagen": "imagenes/rock.jpeg"
+    },
+    {
+        "nombre": "Baladas",
+        "imagen": "imagenes/baladas.jpeg"
+    },
+    {
+        "nombre": "Cumbias",
+        "imagen": "imagenes/cumbia.jpeg"
+    },
+    {
+        "nombre": "Country",
+        "imagen": "imagenes/country.jpeg"
+    },
+    {
+        "nombre": "Clasica",
+        "imagen": "imagenes/clasica.jpeg"
+    },
+    {
+        "nombre": "Rock and roll",
+        "imagen": "imagenes/rock and roll.jpeg"
+    }
+    
+]
