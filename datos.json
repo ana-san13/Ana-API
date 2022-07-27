@@ -2,39 +2,104 @@
     
     {
         "nombre": "Reggaeton",
-        "imagen": "imagenes/reggaeton.jpeg"
+        "imagen": "imagenes/reggaeton.jpeg",
+        "canciones":[
+            "Me porto bonito-Bad Bunny",
+            "MAMIII-Becky G, Karol G",
+            "Rumbatón-Daddy Yankee, Bad Bunny",
+            "Saoko-Rosalia",
+            "Noche de teteo-Sech"
+        ]
     },
     {
         "nombre": "Bachata",
-        "imagen": "imagenes/bachata.jpeg"
+        "imagen": "imagenes/bachata.jpeg",
+        "canciones": [
+            "Darte un beso-Prince Royce",
+            "Propuesta indecente-Romeo Santos",
+            "Un beso-Aventura",
+            "Morir solo-Prince Royce",
+            "No hay nadie más-Pablo Dazán"
+        ]
+        
+        
     },
     {
         "nombre": "Banda",
-        "imagen": "imagenes/banda.jpeg"
+        "imagen": "imagenes/banda.jpeg",
+        "canciones": [
+            "Me vas a extrañar-Banda MS",
+            "JGL-La Adictiva Banda san José de Mesillas",
+            "El Color De Tus Hojos-Banda MS de Sergio Lizárraga",
+            "Ojos Verdes-Julión Álvarez y su Norteño Banda",
+            "Chale-Eden Muñoz"
+        ]
     },
     {
         "nombre": "Rock",
-        "imagen": "imagenes/rock.jpeg"
+        "imagen": "imagenes/rock.jpeg",
+        "canciones": [
+            "Teenagers-My Chemical Romance",
+            "Fiesta Pagana 2.0- MAgo de oz",
+            "Boulevard Of Broken Dreams- Green Day",
+            "Bohemian Rhapsody- Queen",
+            "Molinos de viento-Mago de Oz"
+        ]
     },
     {
         "nombre": "Baladas",
-        "imagen": "imagenes/baladas.jpeg"
+        "imagen": "imagenes/baladas.jpeg",
+        "canciones":[
+            "Te Quiero-Hombres G",
+            "Besame- Ricardo Montaner",
+            "Presiento-Morat,Aitana",
+            "Si No Te Tengo a Ti- Hombres G",
+            "El Amor De Mi Vida- Camilo Sesto"
+        ]
     },
     {
         "nombre": "Cumbias",
-        "imagen": "imagenes/cumbia.jpeg"
+        "imagen": "imagenes/cumbia.jpeg",
+        "canciones":[
+            "Qué Bello-La Sonora Dinamita,Kika Edgar",
+            "Llorar- Los Socios Del Ritmo",
+            "Cumbia Con La Luna-Control",
+            "Tus Jefes No Me Quieren- Grupo Ensamble",
+            "Mi Niña mujer-Los Angeles Azules"
+        ]
     },
     {
         "nombre": "Country",
-        "imagen": "imagenes/country.jpeg"
+        "imagen": "imagenes/country.jpeg",
+        "canciones":[
+            "Love Story-Taylor Swift",
+            "Wasted on You-Morgan Wallen",
+            "7 Summers-MOrgan Waller",
+            "Country On-Luke Bryan",
+            "Country Boy-Alan Jackson"
+        ]
     },
     {
         "nombre": "Clasica",
-        "imagen": "imagenes/clasica.jpeg"
+        "imagen": "imagenes/clasica.jpeg",
+        "canciones":[
+            " Una Mattina-Ludovico Einaudi",
+            "Claro de Luna-Ludwig van Beethoven",
+            "Experience-Ludovico Einaudi",
+            "Fracture-Stephan Moccio",
+            "The Final Countdown-Europe"
+        ]
     },
     {
         "nombre": "Rock and roll",
-        "imagen": "imagenes/rock and roll.jpeg"
+        "imagen": "imagenes/rock and roll.jpeg",
+        "canciones":[
+            "Young And Beautiful-Lana Del Rey",
+            "Confident Single Version-Justin Bieber, Chance the Rapper",
+            "Llama Por Favor- Alejandra Guzman",
+            "Cuando Seas Grande-Miguel Mateos,Zas",
+            "Maria-Liran Roll"
+        ]
     }
     
 ]
